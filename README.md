@@ -1,2 +1,2 @@
 # hello-world
-Yet another repository of ideas
+Yet another repository of really cool ideas
